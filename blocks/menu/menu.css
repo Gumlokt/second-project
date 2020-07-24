@@ -1,0 +1,15 @@
+@import url(./__item/menu__item.css);
+@import url(./__link/menu__link.css);
+
+.menu {
+  box-sizing: border-box;
+  margin: 100px 0 50px;
+  padding: 20px;
+  max-width: 1200px;
+  background-color: whitesmoke;
+  background-image: linear-gradient(lightgray, whitesmoke);
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  border-radius: 10px;
+}

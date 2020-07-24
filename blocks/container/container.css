@@ -1,0 +1,22 @@
+.container {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  height: 800px;
+  background-color: lightgray;
+  background-image: url(../../images/milky-way-starry-sky-night-sky-star-956999.webp);
+  background-size: cover;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  grid-template-rows: repeat(4, 1fr);
+  place-content: space-evenly;
+  justify-items: stretch;
+  align-items: stretch;
+  grid-gap: 30px;
+}
+
+@media (max-width: 1199px) {
+  .container {
+    background-image: url(../../images/pexels-photo-281260.webp);
+  }
+}

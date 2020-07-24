@@ -1,0 +1,9 @@
+@import url(./__title/main__title.css);
+@import url(./__title/_accent/main__title_accent.css);
+
+
+.main {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 20px 0;
+}

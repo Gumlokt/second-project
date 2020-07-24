@@ -1,0 +1,11 @@
+.cell {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: lightsalmon;
+  /* display: flex;
+  justify-content: center;
+  align-items: center; */
+  border: 1px solid red;
+  /* transform: matrix(1, 0, 0, 1, 0, 0); */
+}

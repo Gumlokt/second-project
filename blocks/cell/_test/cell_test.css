@@ -1,0 +1,11 @@
+.cell_test {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  background-color: tomato;
+
+  grid-column: 2/3;
+  grid-row: 1/2;
+
+  z-index: 10;
+}

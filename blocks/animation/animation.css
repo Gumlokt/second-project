@@ -1,0 +1,7 @@
+@import url(./__move/animation__move.css);
+@import url(./__rotation/animation__rotation.css);
+
+.animation {
+  animation: move 5s linear forwards,
+             rotation 3s linear infinite backwards 3s;
+}

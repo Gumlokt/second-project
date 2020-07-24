@@ -1,0 +1,13 @@
+.cell__title {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  /* padding: 5px 8px; */
+  line-height: 1.2;
+  font-size: 22px;
+  font-weight: 100;
+  text-align: center;
+  border: 1px solid blanchedalmond;
+  /* transform: matrix(2, 0, 0, 2, 0, 0); */
+  position: relative;
+}

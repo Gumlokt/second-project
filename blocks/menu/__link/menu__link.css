@@ -1,0 +1,13 @@
+.menu__link {
+  text-decoration: none;
+  line-height: 1.15;
+  font-size: 18px;
+  font-weight: 300;
+  color: salmon;
+  text-shadow: 0 1px 0 #fff;
+  transition: color .3s linear;
+}
+
+.menu__link:hover {
+  color: brown;
+}
